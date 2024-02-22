@@ -204,9 +204,6 @@ background-size: cover;
 section.module.parallax-1{
 background-image: url(../img/fundo.jpg);
 }
-.module {
-background: #000000;
-}
 .atuacao{
 display: flex;
 flex-wrap: wrap;
@@ -243,7 +240,7 @@ align-items: center;
   margin-left: 18px;
 }
 
-/* Rodapé */
+/* Contato */
 .rodape-bg {
   background: var(--cor-0);
 }
