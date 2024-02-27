@@ -255,12 +255,11 @@ text-align: left;
 .rodape h2 {
 padding-top: 29px;
 padding-bottom: 31px;
-margin-left: 20px;
 }
 .rodape ul li + li{
 padding-top: 18px;
 }
 .rodape ul{
 padding-bottom: 29px;
-margin-left: 40px;
+margin-left: 18px;
 }
